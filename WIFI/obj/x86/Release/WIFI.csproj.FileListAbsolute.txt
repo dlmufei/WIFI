@@ -1,0 +1,9 @@
+D:\C#+.NET\WIFI\WIFI\bin\Release\WIFI.exe
+D:\C#+.NET\WIFI\WIFI\bin\Release\WIFI.pdb
+D:\C#+.NET\WIFI\WIFI\obj\x86\Release\ResolveAssemblyReference.cache
+D:\C#+.NET\WIFI\WIFI\obj\x86\Release\WIFI.FormWIFI.resources
+D:\C#+.NET\WIFI\WIFI\obj\x86\Release\WIFI.Properties.Resources.resources
+D:\C#+.NET\WIFI\WIFI\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+D:\C#+.NET\WIFI\WIFI\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\C#+.NET\WIFI\WIFI\obj\x86\Release\WIFI.exe
+D:\C#+.NET\WIFI\WIFI\obj\x86\Release\WIFI.pdb
